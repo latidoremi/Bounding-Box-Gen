@@ -23,7 +23,7 @@ bl_info = {
     "blender": (3, 0, 0),
     "location": "View3D > Object > Bounding Box Gen",
     "description": "Create a bounding box for each selected object",
-    "category": "Add Object",
+    "category": "Object",
 }
 
 import bpy, bmesh
